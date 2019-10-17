@@ -1,0 +1,29 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  background: #ed6e33;
+  color: white;
+  font-family: monospace;
+  width: 400px;
+}
+
+body {
+  text-align: center;
+  background-image: url(images/97190274-mathematics-background-different-numbers-in-random-pattern-colorful-school-pattern-for-children-mult.jpg);
+}
+
+.cell {
+  background: white;
+  text-align: center;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  text-align: right;
+  border: 1px solid black;
+  font-family: monospace;
+}
